@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Joey's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,13 +15,16 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+# THINGS I LOVE ABOUT CS193!!!
+- The teachers are cool
+- It is very informational
+- CS193 teaches important stuff
 
-1. Numbered
-2. List
+1. I love numbered lists
+2. Numbered lists are the best
+3. CS193 is amazing
 
-**Bold** and _Italic_ and `Code` text
+**THIS IS BOLD** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
